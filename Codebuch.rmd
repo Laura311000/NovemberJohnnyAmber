@@ -28,7 +28,7 @@ output: html_document
 
 -to: Anwesende Zeugen
 
-- relation: Beziehungen der Zeugen zu Johnny Depp und Amber Heard :
+-relation: Beziehungen der Zeugen zu Johnny Depp und Amber Heard :
 
 1 = work/contract     
 
@@ -48,6 +48,6 @@ output: html_document
 
 -WeightJD: Belastende und Entlastende Aussagen für JD
 
-- WeightAH: Belastende und Entlastende Aussagen für JD
+-WeightAH: Belastende und Entlastende Aussagen für JD
 
 -Event: codiert ob Zeugen zu einem der Events ( KOT, Finger abschneiden, Polizeieinsatz, Wohnkomplex) ausgesagt haben oder nicht
