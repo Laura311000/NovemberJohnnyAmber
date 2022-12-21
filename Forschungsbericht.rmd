@@ -1,7 +1,7 @@
 ---
-title: "Forschungsbericht Soziale Netzwerke"
-author: "Gruppe 3 | Projektleitung Luisa Funk, lf067@hdm-stuttgart.de"
-date: "Wintersemester 2021/22"
+title: "Forschungsbericht Beziehungsnetzwerk Amber Heard und Johnny Depp"
+author: "Gruppe True Crime | si027, tk166, tm120, lw114, kb138"
+date: "Wintersemester 2022/23"
 ---
 
 # Abstract und Keywords
@@ -27,18 +27,18 @@ Wie wirkt sich die Beziehung der Zeug*innen untereinander und zu den Angeklagten
 
 Vorarbeiten und vergleichbare Studien
 
-Forschungsstand SNA in der Kriminalgeschichte
+# Forschungsstand SNA in der Kriminalgeschichte
 
 Die Soziale Netzwerkanalyse (SNA) bietet sich besonders im Bereich der Kriminologie an, weil sie sich nicht auf die klassischen Attribute von Gruppen oder Einzelpersonen fokussiert, sondern auf die Verbindungen zwischen unabhängigen Individuen (Gallupe, 2016). Damit bereichert die SNA die klassische Kriminalforschung.
 Die SNA findet sich in der Kriminologie in einem breiten Anwendungsfeld wieder. Sie wird dort beispielsweise angewendet, um die Strukturen von kriminellen Vereinigungen und Schwarzmärkten zu analysieren (Gallupe, 2016). 
 Der Einsatz der Netzwerkanalyse in der Kriminologie bietet verschiedene Vorteile. Zum einen das Verhalten von Menschen aus individuellen Strukturen zu erklären (Rau & Höffler, 2020). Außerdem können mithilfe der SNA die einhergehenden Bindungen und Verpflichtungen von bestimmten Akteur*innen zu ihren Kontakten verstanden werden (ebd.). Aber auch, wenn man an die Prävention von Kriminalität denkt, kann sich die SNA als hilfreich erweisen (ebd.).
 
-Forschungsstand True Crime
+# Forschungsstand True Crime
 
 True Crime gibt es mittlerweile in jeglichen Formaten, beispielsweise in Form von Büchern, Dokumentationen, Serien aber auch Podcast. Mit der Faszination hinter True Crime beschäftigt sich die Psychologie seit langem. Einer der Erkenntnisse war, dass sich die meisten Rezipient*innen für True Crime faszinieren, weil ein gewisser Reiz am Leben “der Anderen” besteht (Dmitrieva, 2017).
 Im Fall von Johnny Depp und Amber Heard war dies gut zu erkennen. Viele Menschen haben den Gerichtsprozess mitverfolgt, weil sie sich selbst in der Rolle des “Problemlösers” und “Falllösers” wiederfinden (Ewert, 2019). In den sozialen Medien führte dies unter anderem dazu, dass User*innen eigene Recherchen starteten, um den Fall zu lösen und einen Schuldigen zu finden. Daraus entstanden sind beispielsweise die Hashtags “#IStandwithAmber” oder ‘#JusticeforJohnny”. 
 
-Arbeitshypothesen
+# Arbeitshypothesen
 
 Folgende Hypothesen haben wir im Vorhinein aufgestellt und wollten diese mit unserer Netzwerkanalyse beantworten:
 
@@ -48,24 +48,24 @@ Folgende Hypothesen haben wir im Vorhinein aufgestellt und wollten diese mit uns
 
 (3) Wirkt sich die Beziehung der Zeugen untereinander auf ihre Aussagen aus?
 
-Datenerhebung: Zugang, Bereinigung und Codebuch 
+# Datenerhebung: Zugang, Bereinigung und Codebuch 
 
-Datenzugang
+## Datenzugang
 
 Wir haben unsere Daten über aufgezeichnete Videos des Gerichtsprozesses, die auf dem Youtube-Kanal „Law & Crime Network“ seit April 2022 veröffentlicht wurden, erhoben. Außerdem hatten wir durch das große mediale Interesse Zugang zu Informationen in der Klatschpresse. Da diese Informationen jedoch fraglich wahrheitsgetreu waren, haben wir diese Informationen abgeglichen mit weiteren öffentlich zugänglichen Gerichtsunterlagen. 
 
 Aus dieser intensiven Recherche-Phase haben wir zu allen Zeug*innen eine Art kleinen Steckbrief mit allen relevanten Attributen und Kennzahlen erstellt.  
 
-Bereinigung des Datensatzes
+## Bereinigung des Datensatzes
 
 Die Daten aus der Datenerhebung wurden anschließend zusammengetragen und codiert. Im Laufe dieses Prozesses musste die Codierung allerdings bei einigen Attributen aufgrund neuer Erkenntnisse abgeändert werden.
 
-Codebuch
+## Codebuch
 
 Das [Codebuch] (https://github.com/Laura311000/NovemberJohnnyAmber/blob/main/Codebuch.rmd) umfasst die erhobenen Variablen, Relationen und Gewichte des Netzwerks und ist auf Github hinterlegt.
 
 
-Erstellung des Datensatzes 
+# Erstellung des Datensatzes 
 
 Alle in der Nodelist aufgeführten Personen sind Zeug*innen, welche vor Gericht eine Aussage gemacht haben. Als ID werden die Initialen verwendet. Auch die Protagonist*innen des Gerichtsverfahrens sowie häufig im Prozess erwähnte Ereignisse sind in der Nodelist aufgeführt.
 Die Zeug*innen und die Protagonist*innen werden in folgenden Nodeattributen kategorisiert:
@@ -103,16 +103,23 @@ WeightJD und WeightAH kategorisieren die Aussagen der Zeug*innen zu den Protagon
 Das Attribut Event zeigt an, ob Zeug*innen zu eines der häufigsten genannten Events ausgesagt hat ( Finger abschneiden, Kot im Bett, Polizeieinsatz und Wohnkomplex)
 Gesamtnetzwerk
 
-# Erstellung eines Gesamtnetzwerkes mit allen Zeug*innen und den am häufigsten gennannten Events.
-#Nodeattribut sex wird eingefärbt für eine bessere Übersicht.
+ Erstellung eines Gesamtnetzwerkes mit allen Zeug*innen und den am häufigsten gennannten Events.
+ 
+ Nodeattribut sex wird eingefärbt für eine bessere Übersicht.
+
 In unserem Gesamtnetzwerk werden alle Zeug*innen, Amber Heard und Johnny Depp sowie die 4 am häufugsten gennanten Ereignisse gezeigt. Die beiden Events mit den meisten Kanten werden im Abschnitt Teilnetzwerke besprochen.
-Analyse der Teilnetzwerke
+
+# Analyse der Teilnetzwerke
+
 Bei der Auswahl der Teilnetzwerke haben wir uns an der Forschungsfrage orientiert: Wie wirkt sich die Beziehung der Zeug*innen untereinander und zu den Angeklagten auf die Aussagen vor Gericht aus?
 Das erste Teilnetzwerk zeigt alle Zeug*innen, die mit ihrer Aussage eine der beiden Protagonist*innen entlastet haben.
-# erstellt Teilnetzwerk aller Zeug*innen mit dem Edgeattribut b= entlastet.
+
+erstellt Teilnetzwerk aller Zeug*innen mit dem Edgeattribut b= entlastet.
+
 Auf den ersten Blick erkennt man durch dieses Teilnetzwerk, dass mehr als doppelt so viele Zeug*innen Johnny Depp entlasten als Amber Heard.
 Um zu vergleichen, was diese Zeug*innen gemeinsam haben könnten und um es einen Unterschied zwischen den beiden Gruppen gibt haben wir uns die Beziehungen zueinander angeschaut und eingefärbt.
-# Erstellung der Subgraphs und einfärben des Edgeattribut relation in verschiedene Farben.
+
+ Erstellung der Subgraphs und einfärben des Edgeattribut relation in verschiedene Farben.
 Neun der 13 Zeug*innen standen in einer Beziehung zu Amber Heard. Fünf davon in einer externen Beziehung, das bedeutet, dass sie von Amber Heards Team als Gutachter*innen zu verschiedenen Themen geladen wurden. Beispielsweise Julian Ackert, der als Computerforensiker Bilder von Ambers Verletzungen auf Wahrhaftigkeit untersuchen sollte.
 Amy Banks, eine der entlastenden Zeug*innen, fällt mit zwei weiteren unter die Kategorie fünf (medizinischen Beziehung). Sie war Amber Heards Psychotherapeutin. Tillet Wright, ein Freund von Amber, sagte entlastend für sie aus und fällt in Kategorie zwei (friendship). Das vier restliche Zeug*innen standen in keiner Beziehung zu Heard, jedoch zu Johnny Depp. Ihre entlastende Aussage für Heard ist durch eine aktiv belastende Aussage für Depp entstanden.
 Im Vergleich fällt das entlastende Netzwerk von Johnny Depp um einiges bunter aus. Wie auch bei Amber stehen 4 Zeug*innen nicht in einer direkten Beziehung zu Johnny Depp. Da insgesamt 34 Zeug*innen Depp entlastet haben, standen 30 in einer Beziehung zu ihm. Besonders häufig wurde er von Zeug*innen entlastet, die in einem Angestelltenverhältnis zu Depp standen oder stehen(10 edges für employed by). Auch drei seiner Exfreundinnen (love) und drei seiner Freund*innen (friendship) haben entlastend für Depp ausgesagt.
