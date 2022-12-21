@@ -1,0 +1,65 @@
+id,name,sex,age,profession,aussage
+JD,Johnny Depp,m,59,actor,j
+AH,Amber Heard,f,36,actor,a
+CD,Christi Dembrowski,f,61,producer,j
+IB,Isaac Baruch,m,61,artist,j
+BP,Brandon Patterson,m,,real estate,j
+GD,Gina Deuters,f,41,creative director,j
+KJ,Kate James,f,,assistant,j
+LA,Laurel Anderson,f,71,therapist,j
+DK,Dr. David Kipper,m,74,doctor,j
+DL,Debbie Lloyd,f,,nurse,j
+BK,Ben King,m,,house manager,n
+KW,Keenan Wyatt,m,,sound engineer,a
+RM,Richard Marks,m,,attorney,j
+SB,Sean Bett,m,57,securityguard,j
+TM,Travis McGivern,m,58,securityguard,j
+TR,Tara Roberts,f,,manager,j
+MS,Melissa Saenz,f,,police,j
+SC,Dr. Shannon Curry,f,42,consultant,j
+AR,Alejandro Romero,m,,doorman,n
+TD,Terrence Dougherty,m,,executive director,j
+JW,Jack Whigham,m,56,manager,j
+DB,Douglas Bania,m,54,consultant,n
+EF,Erin Falati,f,,nurse,n
+MSP,Michael Spindler,m,,consultant,n
+LW,Laura Wasser,f,54,attorney,j
+CC,Christian Carino,m,53,agent,n
+EW,Edward White,m,,manager,j
+SJ,Starling Jenkins,m,,driver,j
+MC,Malcom Connolly,m,,securityguard,j
+DH,Dr. Dawn Hughes,f,,therapist,a
+KM,Kate Moss,f,48,model,j
+TH,Tyler Hadden,m,,police,j
+WG,William Gatlin,m,,police,j
+WHE,Whitney Henriquez,f,34,model,a
+JH,Jennifer Howell,f,43,producer,a
+EB,Ellen Barkin,f,68,actor,a
+TJ,Tracey Jacobs,f,62,agent,j
+JM,Joel Mandel,m,,finance,a
+DS,Dr. David Spiegel,m,63,doctor,a
+DRM,Dr. Richard Moore,m,57,doctor,a
+KA,Kathryn Arnold,f,59,producer,a
+TN,Tina Newman,f,61,executive,a
+TW,Tillet Wright,f,37,actor,a
+WH,Walter Hamada,m,54,producer,j
+DKU,Dr. David Kulber,m,55,doctor,j
+MK,Morgan Knight,m,,real estate,j
+JDR,Josh Drew,m,,,j
+RP,Raquel Pennington,f,34,athlete,j
+VP,Vanessa Paradis,f,49,model,j
+WR,Winona Ryder,f,50,actor,j
+BN,Bryan Neumeister,m,,consultant,j
+JA,Julian Ackert,m,,consultant,a
+ABA,Amy Banks,f,,therapist,a
+LB,Lisa Beane,f,,nurse,j
+AB,Alan Blaustein,m,68,therapist,n
+LD,Laura Dievenere,f,,decorator,j
+CV,Camille Vasquez,f,38,attorney,
+BC,Ben Chew,m,,attorney,
+EBR,Elaine Bredehoft,f,61,attorney,
+BR,Ben Rottenborn,m,,attorney,
+PE,Polizeieinsatz,,,,
+FA,Finger abschneiden,,,,
+KOT,Kot im Bett,,,,
+WK,Wohnkomplex,,,,
